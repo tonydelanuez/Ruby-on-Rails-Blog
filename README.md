@@ -9,4 +9,4 @@ Creating a simple blog with Ruby on Rails utilizing:
 - RESTful design
 - Adding gems for extra features
 
-# Following : http://tutorials.jumpstartlab.com/projects/blogger.html
+Following : http://tutorials.jumpstartlab.com/projects/blogger.html
